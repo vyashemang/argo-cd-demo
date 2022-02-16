@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
       - name: argocd-app-container
-        image: nanajanashia/argocd-app:1.2
+        image: nanajanashia/argocd-app:1.0
